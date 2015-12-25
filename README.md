@@ -1,3 +1,5 @@
+使用AIDL连接TimerService,实习跨应用通讯
+
 # StartServiceFromAnotherApp
 关键词：
 远程启动服务器
